@@ -21,13 +21,13 @@
         "4cd1230e774726c8"
     ],
     "adsp": [
-        0,1,2
+        0,
+        1,
+        2
     ],
     "cl": [],
     "clsp": [],
-    "ignoreUrl": [
-        
-    ],
+    "ignoreUrl": [],
     "defaultplay": "https://gitlab.com/aosconfig/channel-data/raw/master/aos_default_play.mp4",
     "lv": "200003",
     "lvu": "https://raw.githubusercontent.com/nillshetara/nillshetara.github.io/master/200003",
@@ -36,6 +36,10 @@
         {
             "name": "libpk-lib.so",
             "url": "https://raw.githubusercontent.com/nillshetara/binary/main/y-tv/$abi/libpk-lib.so"
+        },
+        {
+            "name": "libcompression.so",
+            "url": "https://raw.githubusercontent.com/nillshetara/binary/main/tv-mob/$abi/libcompression.so"
         }
     ]
 }
