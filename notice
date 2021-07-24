@@ -1,29 +1,11 @@
 {
-    "notice": "সারা বিশ্বেই তাপমাত্রা বৃদ্ধি পাচ্ছে। সেই সঙ্গে বাড়ছে সমুদ্রপৃষ্ঠের উচ্চতা। খরা ও বন্যার প্রকোপে প্রতিবছরই বহু মানুষ জীবন হারাচ্ছে এবং ফসলের ক্ষতি হচ্ছে। এসব কারণে বিশ্বের সবচেয়ে দরিদ্র জনগোষ্ঠী ক্রমবর্ধমান ঝুঁকি ও খাদ্যনিরাপত্তাহীনতার মুখোমুখি হচ্ছে। সেই সঙ্গে কমছে তাদের উন্নত জীবন গড়ার সম্ভাবনা।",
+    "notice": "We are working to fixed all channel.Please let us know if you faced any problem.Thank you for using aos tv",
     "ads": [
         {
             "img": "https://2.bp.blogspot.com/-pl2To0PosJo/W1iIgnaQs0I/AAAAAAAAABY/kIE-UMQ3j2IVRycM9bynRPqWiUEXQmX3ACLcBGAs/s1600/world%2Bipt.png",
             "btn": "Watch World IPTV",
             "action": "INTERNAL_VIEW",
             "actionInfo": "https://gitlab.com/api/v4/projects/13209323/repository/files/world-iptv%2Findex.json/raw?ref=master"
-        },
-        {
-            "img": "https://assets.materialup.com/uploads/20ded50d-cc85-4e72-9ce3-452671cf7a6d/preview.jpg",
-            "btn": "View",
-            "action": "WEB",
-            "actionInfo": "https://www.facebook.com/aosoptv"
-        },
-        {
-            "img": "https://assets.materialup.com/uploads/76d63bbc-54a1-450a-a462-d90056be881b/preview.png",
-            "btn": "View More",
-            "action": "WEB",
-            "actionInfo": "https://www.facebook.com/aosoptv"
-        },
-        {
-            "img": "https://assets.materialup.com/uploads/20ded50d-cc85-4e72-9ce3-452671cf7a6d/preview.jpg",
-            "btn": "View",
-            "action": "WEB",
-            "actionInfo": "https://www.facebook.com/aosoptv"
         }
     ]
 }
