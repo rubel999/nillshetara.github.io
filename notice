@@ -1,11 +1,17 @@
 {
-    "notice": "Please make sure you are using latest version 20.1.0.We are working to fixed all channel.Please let us know if you faced any problem.Thank you for using aos tv",
+    "notice": "Please make sure you are using latest version 20.1.1.We are working to fixed all channel.Please let us know if you faced any problem.Thank you for using aos tv",
     "ads": [
         {
             "img": "https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",
             "btn": "Watch World IPTV",
             "action": "INTERNAL_VIEW",
             "actionInfo": "https://gitlab.com/api/v4/projects/13209323/repository/files/world-iptv%2Findex.json/raw?ref=master"
+        },
+        {
+            "img": "https://yt3.ggpht.com/ytc/AKedOLS7khE2lmf3MQiF_xqdaj-nQIapPf4812ZqnLIrLA=s900-c-k-c0x00ffffff-no-rj",
+            "btn": "Kazi IPTV",
+            "action": "INTERNAL_VIEW",
+            "actionInfo": "https://word_url_prs_cat.com=aHR0cHM6Ly9hcGkuYWlydGFibGUuY29tL3YwL2FwcGxYZlZMUFRlMTZqVDlrL0NhdGVnb3J5P2ZpZWxkc1tdPVRpdHRsZSZmaWVsZHNbXT1JbWFnZSZmaWVsZHNbXT1MaW5rJm1heFJlY29yZHM9MTAwMCZ2aWV3PUdyaWQlMjB2aWV3fEF1dGhvcml6YXRpb246QmVhcmVyIGtleVF6azlEdXBrMHRWQ0pBfGNoLWJhc2U6aHR0cHM6Ly9hcGkuYWlydGFibGUuY29tL3YwL2FwcDlDd2tIMkx4elVkdlRnLw=="
         }
     ]
 }
