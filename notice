@@ -12,6 +12,12 @@
             "btn": "AOS TV PREMIUM",
             "action": "OPTV",
             "actionInfo": ""
+        },
+        {
+            "img": "https://i.postimg.cc/SK0v70TW/Android-Large-6-1.jpg",
+            "btn": "AOS TV PREMIUM",
+            "action": "OPTV",
+            "actionInfo": ""
         }
     ]
 }
