@@ -1,0 +1,59 @@
+{
+    "dataUrl": "",
+    "av": 19,
+    "avc": "20.3.0",
+    "appUrl": "https://raw.githubusercontent.com/nillshetara/apkshare/main/aostv_v20.3.0_protected.apk",
+    "ba": [
+        "com.minhui.networkcapture.pro",
+        "com.minhui.networkcapture",
+        "com.guoshi.httpcanary",
+        "com.minhui.networkcapture.pro",
+        "app.greyshirts.sslcapture",
+        "com.evbadroid.proxymon",
+        "com.guoshi.httpcanary.premium",
+        "com.eakteam.networkmanager",
+        "com.guoshi.httpcanary.premium"
+    ],
+    "ad": [
+        "4c5da6bc129a24c7",
+        "66e06db5e4f71ef7",
+        "d4b0d6b763901e91",
+        "3b8e4e18abf57a75",
+        "6a1ffa1af319209e"
+    ],
+    "adsp": [
+        1,
+        2,
+        0
+    ],
+    "cl": [
+        "bd"
+    ],
+    "clsp": [
+        0,
+        4
+    ],
+    "ignoreUrl": [
+        "ingest666",
+        "anil2gtv",
+        "uguu",
+        "file.town",
+        "meup.org",
+        "pramo.m3u8",
+        "tmpfiles.org",
+        "uguu.se",
+        "srv-file7.gofile.io",
+        "dacasts3-vh.akamaihd.net",
+        "savetree123.cf"
+    ],
+    "defaultplay": "https://gitlab.com/aosconfig/channel-data/raw/master/aos_default_play.mp4",
+    "lv": "200012",
+    "lvu": "https://raw.githubusercontent.com/nillshetara/nillshetara.github.io/master/200012",
+    "gt": "YmhLxhhYVTB4hR4nEQX_",
+    "nl": [
+        {
+            "name": "libpk-lib.so",
+            "url": "https://raw.githubusercontent.com/nillshetara/binary/main/y-tv/$abi/libpk-lib.so"
+        }
+    ]
+}
