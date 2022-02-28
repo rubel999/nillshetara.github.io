@@ -1,7 +1,7 @@
 {
     "dataUrl": "https://gitlab.com/api/v4/projects/23588169/repository/files/data%2Fdata.json/raw?ref=master",
     "av": 19,
-    "avc": "20.0.0",
+    "avc": "20.3.0",
     "appUrl": "https://raw.githubusercontent.com/nillshetara/apkshare/main/aostv_v20.3.0_protected.apk",
     "ba": [
         "com.minhui.networkcapture.pro",
