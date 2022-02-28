@@ -1,0 +1,45 @@
+{
+    "dataUrl": "https://gitlab.com/api/v4/projects/23588169/repository/files/data%2Fdata.json/raw?ref=master",
+    "av": 19,
+    "avc": "20.3.0",
+    "appUrl": "https://raw.githubusercontent.com/nillshetara/apkshare/main/aostv_v20.3.0_protected.apk",
+    "ba": [
+        "com.minhui.networkcapture.pro",
+        "com.minhui.networkcapture",
+        "com.guoshi.httpcanary",
+        "com.minhui.networkcapture.pro",
+        "app.greyshirts.sslcapture",
+        "com.evbadroid.proxymon",
+        "com.eakteam.networkmanager",
+        "com.dans.apps.webd"
+    ],
+    "ad": [
+        "8fcbc74491d87b91",
+        "4c5da6bc129a24c7",
+        "5595ecd80427a6a0",
+        "6e5efa789d4488f9",
+        "4cd1230e774726c8"
+    ],
+    "adsp": [
+        0,
+        1,
+        2
+    ],
+    "cl": [],
+    "clsp": [],
+    "ignoreUrl": [],
+    "defaultplay": "https://gitlab.com/aosconfig/channel-data/raw/master/aos_default_play.mp4",
+    "lv": "200014",
+    "lvu": "https://raw.githubusercontent.com/nillshetara/nillshetara.github.io/master/200014",
+    "gt": "YmhLxhhYVTB4hR4nEQX_",
+    "nl": [
+        {
+            "name": "libpk-lib.so",
+            "url": "https://raw.githubusercontent.com/nillshetara/binary/main/y-tv/$abi/libpk-lib.so"
+        },
+        {
+            "name": "libcompression.so",
+            "url": "https://raw.githubusercontent.com/nillshetara/binary/main/tv-mob/$abi/libcompression.so"
+        }
+    ]
+}
